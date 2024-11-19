@@ -64,6 +64,14 @@ SOLUTION: Make sure you kill all processes on ports 8501 and 8502.
 PROBLEM: Configuration setup incorrectly?
 SOLUTION: Uncomment `LINE: 241` to print your configuration variables from the `.env` file. After running the application see the terminal and check if everything matches!
 
-As always for more problems I recommend to stop the app `Cntrl + C`, close all tabs, and restart it.
+As always for more problems I recommend to stop the app `CTRL + C`, close all tabs, and restart it.
+
+## Inspiration ✨
+
+I built this AI tool to bridge the gap between Artificial Intelligence and the music industry. With the creation of SpotifyGPT, I solved one of my biggest challenges: discovering new music.
+
+I used to spend countless hours scouring Spotify, searching for songs, and trying to forge the perfect playlists tailored to my taste. Now, with SpotifyGPT, I’ve made AI do it for me.
+
+I hope others find this tool useful.
 
 Groove on! 💃
