@@ -1,6 +1,6 @@
 # SpotifyGPT 🎶
 
-SpotifyGPT is a tool that leverages the openAI API, alongside the Spotify API to find music based on user prompts, and insert it inside the users Spotify Account!
+SpotifyGPT is a tool that leverages the OpenAI API, alongside the Spotify API to find music based on user prompts, and insert it inside the users Spotify Account!
 
 Users can write any query from general to specific, and choose a number of songs from 1-20.
 
