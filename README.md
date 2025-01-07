@@ -4,7 +4,7 @@ SpotifyGPT is a tool that leverages the OpenAI API, alongside the Spotify API to
 
 Users can write any query from general to specific, and choose a number of songs from 1-20.
 
-Click `Create Playlsit` and **__BOOM__** you have yourself an awesome playlist.
+Click `Create Playlist` and **__BOOM__** you have yourself an awesome playlist.
 
 ## Getting Started 🎧
 
@@ -43,16 +43,16 @@ To run the application follow these steps below!
 You can check out some demo's here. These images show the application in more detail.
 
 Authorization
-![Authorization from SpotifyGPT](https://github.com/YashJain04/SpotifyGPT/tree/main/DEMO/Authorization.png)
+![Authorization from SpotifyGPT](DEMO/Authorization.png)
 
 Home
-![The SpotifyGPT homepage](https://github.com/YashJain04/SpotifyGPT/tree/main/DEMO/Home.png)
+![The SpotifyGPT homepage](DEMO/Home.png)
 
 Response
-![The response from SpotifyGPT](https://github.com/YashJain04/SpotifyGPT/tree/main/DEMO/Response.png)
+![The response from SpotifyGPT](DEMO/Response.png)
 
 Results
-![The results and SpotifyGPT playlist in your Spotify library](https://github.com/YashJain04/SpotifyGPT/tree/main/DEMO/Results.png)
+![The results and SpotifyGPT playlist in your Spotify library](DEMO/Results.png)
 
 ## Having Trouble...? 🔍
 
