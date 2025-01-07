@@ -42,16 +42,16 @@ To run the application follow these steps below!
 
 You can check out some demo's here. These images show the application in more detail.
 
-Authorization
+### Authorization
 ![Authorization from SpotifyGPT](DEMO/Authorization.png)
 
-Home
+### Home
 ![The SpotifyGPT homepage](DEMO/Home.png)
 
-Response
+### Response
 ![The response from SpotifyGPT](DEMO/Response.png)
 
-Results
+### Results
 ![The results and SpotifyGPT playlist in your Spotify library](DEMO/Results.png)
 
 ## Having Trouble...? 🔍
