@@ -40,7 +40,7 @@ To run the application follow these steps below!
 
 ## Results 📊
 
-You can check out some demo's here. These images show the application in more detail.
+You can check out some demos here. These images show the application in more detail.
 
 ### Authorization
 ![Authorization from SpotifyGPT](DEMO/Authorization.png)
