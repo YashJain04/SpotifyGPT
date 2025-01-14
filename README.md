@@ -62,9 +62,16 @@ ERROR: Port/Address is in use!
 SOLUTION: Make sure you kill all processes on ports 8501 and 8502.
 
 PROBLEM: Configuration setup incorrectly?
-SOLUTION: Uncomment `LINE: 241` to print your configuration variables from the `.env` file. After running the application see the terminal and check if everything matches!
+SOLUTION: Uncomment `LINE: 241` to print your configuration variables from the `.env` file. After running the application see the terminal and check if everything matches! Make sure to comment them back for security and safety.
 
 As always for more problems I recommend to stop the app `CTRL + C`, close all tabs, and restart it.
+
+## Managing Access 🔐
+
+If you are finished with the application and would like to remove SpotifyGPT from your Spotify Account, you can do so [here](https://www.spotify.com/ca-en/account/apps/).
+
+### Managing Access Reference
+![Managing access from SpotifyGPT](DEMO/Access.png)
 
 ## Inspiration ✨
 
